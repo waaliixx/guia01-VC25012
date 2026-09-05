@@ -1,0 +1,37 @@
+div#VC25012 {
+  background: linear-gradient(135deg, #6a0dad, #4b0082);
+  border-radius: 16px;
+  padding: 40px 45px;
+  max-width: 480px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+  font-family: 'Segoe UI', system-ui, sans-serif;
+  color: #ffffff;
+  text-align: center;
+}
+
+div#VC25012 h1 {
+  font-size: 2.2rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin: 0 0 8px 0;
+}
+
+div#VC25012 h2 {
+  font-size: 1rem;
+  font-weight: 400;
+  color: #d9c7f0;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  padding-bottom: 15px;
+  margin: 0 0 20px 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.25);
+  display: inline-block;
+}
+
+div#VC25012 p {
+  font-size: 0.95rem;
+  line-height: 1.7;
+  color: #f0e9f9;
+  text-align: left;
+  margin: 0;
+}
